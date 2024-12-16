@@ -7,3 +7,9 @@
 ・　README.md：この文章を記述しているファイルのため、無視して構わない
 ・　..._PowerPoint.pdf：授業資料
 ・　..._TeachingPlan.pdf：指導案
+
+# 課題
+
+次回の授業までに以下リンク（Googleフォーム）を回答してください。
+
+https://forms.gle/VZsGEvcTmTEx8qWKA
